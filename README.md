@@ -9,8 +9,9 @@ A Pizza Management System to streamline restaurant operations, including pizza l
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Technologies Used](#technologies-used)
-7. [Links](#links)
-8. [Author](#author)
+7. [Screenshots](#screenshots)
+8. [Links](#links)
+9. [Author](#author)
 
 ## Problem Statement
 
@@ -68,10 +69,19 @@ To use this application:
 - HTML/CSS
 - JavaScript
 
+## Screenshots
+
+### Add Pizza Page
+![Add Pizza Page](screencapture-pizzasprint-onrender-add-pizza-2025-08-30-21_50_58.png)
+
+### Pizza List Page
+![Pizza List Page](screencapture-pizzasprint-onrender-pizza-list-html-2025-08-30-21_50_42.png)
+
 ## Links
 
-- Link to Deployed Application on Render : https://pizzasprint.onrender.com
+- Link to Deployed Application on Render: https://pizzasprint.onrender.com
 - GitHub Repository - Pizza Sprint: https://github.com/YashodipJagtap/PizzaSprint
+
 ## Author
 
 Yashodip Jagtap: https://github.com/YashodipJagtap
